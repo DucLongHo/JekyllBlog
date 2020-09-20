@@ -1,0 +1,10 @@
+---
+layout: default
+title: Blog
+---
+<h1>My interests:</h1>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=TI3RfDBTXNc">Calisthenics</a></li>
+    <li><p>Morbi leo urna molestie at elementum. Quis varius quam quisque id diam vel quam elementum. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Sed risus ultricies tristique nulla aliquet. Adipiscing enim eu turpis egestas pretium. Neque convallis a cras semper. Odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus. Et malesuada fames ac turpis egestas sed tempus urna et. Tellus cras adipiscing enim eu. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Bibendum at varius vel pharetra vel turpis nunc eget lorem. Massa eget egestas purus viverra accumsan in. Turpis massa sed elementum tempus egestas. Enim facilisis gravida neque convallis a. Malesuada fames ac turpis egestas maecenas pharetra. Facilisi morbi tempus iaculis urna. Purus ut faucibus pulvinar elementum integer enim neque. Malesuada bibendum arcu vitae elementum.
+    Eget gravida cum sociis natoque penatibus et. Quam elementum pulvinar etiam non quam. Blandit volutpat maecenas volutpat blandit aliquam. Arcu vitae elementum curabitur vitae nunc sed velit dignissim. Eget magna fermentum iaculis eu non. Bibendum enim facilisis gravida neque convallis a cras semper auctor. A diam sollicitudin tempor id eu nisl. Mauris vitae ultricies leo integer malesuada nunc vel. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Fringilla urna porttitor rhoncus dolor purus non enim praesent elementum. In hac habitasse platea dictumst quisque sagittis. Orci eu lobortis elementum nibh tellus molestie nunc non blandit. Quis vel eros donec ac odio tempor orci dapibus ultrices. Lectus urna duis convallis convallis tellus id. Elementum curabitur vitae nunc sed velit dignissim. Hac habitasse platea dictumst vestibulum. Pellentesque nec nam aliquam sem et. Eget nunc scelerisque viverra mauris in.</p></li>
+  </ul>
